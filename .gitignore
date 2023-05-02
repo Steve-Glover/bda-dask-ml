@@ -1,4 +1,7 @@
 /Data/
+/.ipynb_checkpoints/
+/dask-worker-space/
+/.idea/
 mydask.html
 mydask.png
 build env.docx
